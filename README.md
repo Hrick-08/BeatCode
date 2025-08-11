@@ -1,22 +1,206 @@
-<h1 align="center">Hi 👋, I'm Hritabrata Das</h1>
-<h3 align="center">🛠 I’m currently working on full-stack projects combining MERN and FastAPI, and experimenting with AI-powered applications. 🤝 I’m looking to collaborate on AI/ML projects, web apps, and innovative tech solutions. 👐 I’m looking for help with scaling AI models for production and optimizing complex backend systems. 🌱 I’m currently learning advanced full-stack development, cloud deployment, and cutting-edge AI frameworks. 💬 Ask me about Python, Django, FastAPI, MERN stack, or building AI-driven applications. ⚡ Fun fact: I once turned a simple idea into a working prototype in less than 24 hours.</h3>
+# BeatCode - Competitive Programming Platform
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrick-08" alt="hrick-08" /></a> </p>
+A real-time 1v1 competitive programming platform built with FastAPI and Next.js.
 
-- 🔭 I’m currently working on [BeatCode](https://github.com/Hrick-08/BeatCode)
+## Features
 
-- 👨‍💻 All of my projects are available at [https://github.com/Hrick-08/](https://github.com/Hrick-08/)
+- 🔐 JWT-based authentication
+- 👥 Real-time matchmaking system
+- 💻 Live code editor with syntax highlighting
+- ⚡ WebSocket-powered real-time communication
+- 🏆 Rating system and leaderboards
+- 🤖 AI code review (mock implementation)
+- 📊 User profiles and match history
 
-- 📫 How to reach me **hritabratadas8@gmail.com**
+## Tech Stack
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1ovFuqG2PaR206m8_jK7yYgge1oYOMNkI/edit?usp=sharing&ouid=111394719610328012470&rtpof=true&sd=true](https://docs.google.com/document/d/1ovFuqG2PaR206m8_jK7yYgge1oYOMNkI/edit?usp=sharing&ouid=111394719610328012470&rtpof=true&sd=true)
+### Backend
+- **FastAPI** - Modern Python web framework
+- **SQLAlchemy** - SQL toolkit and ORM
+- **SQLite** - Database (easily upgradable to PostgreSQL)
+- **WebSockets** - Real-time communication
+- **JWT** - Authentication
+- **Pydantic** - Data validation
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hritabrata-das-913460326" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hritabrata-das-913460326" height="30" width="40" /></a>
-</p>
+### Frontend
+- **Next.js** - React framework
+- **TailwindCSS** - Utility-first CSS framework
+- **shadcn/ui** - UI component library
+- **WebSocket Client** - Real-time updates
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cockroachlabs.com/product/cockroachdb/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/cockroachdb.svg" alt="cockroachdb" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## Getting Started
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrick-08&show_icons=true&locale=en&layout=compact" alt="hrick-08" /></p>
+### Prerequisites
+- Python 3.8+
+- Node.js 16+
+- npm or yarn
+
+### Backend Setup
+
+1. Navigate to the backend directory:
+\`\`\`bash
+cd backend
+\`\`\`
+
+2. Create a virtual environment:
+\`\`\`bash
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+\`\`\`
+
+3. Install dependencies:
+\`\`\`bash
+pip install fastapi uvicorn sqlalchemy python-jose[cryptography] passlib[bcrypt] python-multipart websockets
+\`\`\`
+
+4. Create environment file:
+\`\`\`bash
+cp .env.example .env
+\`\`\`
+
+5. Run database migrations and seed data:
+\`\`\`bash
+python scripts/seed_database.py
+\`\`\`
+
+6. Start the backend server:
+\`\`\`bash
+uvicorn main:app --reload --host 0.0.0.0 --port 8000
+\`\`\`
+
+The API will be available at `http://localhost:8000`
+
+### Frontend Setup
+
+1. Navigate to the frontend directory:
+\`\`\`bash
+cd frontend
+\`\`\`
+
+2. Install dependencies:
+\`\`\`bash
+npm install
+\`\`\`
+
+3. Start the development server:
+\`\`\`bash
+npm run dev
+\`\`\`
+
+The frontend will be available at `http://localhost:3000`
+
+## API Endpoints
+
+### Authentication
+- `POST /api/register` - Register a new user
+- `POST /api/login` - Login and get JWT token
+- `GET /api/user/profile` - Get current user profile
+- `GET /api/user/matches` - Get user's match history
+
+### Matchmaking & Games
+- `POST /api/matchmaking/join` - Join matchmaking queue
+- `GET /api/matchmaking/start` - Get current match details
+- `POST /api/match/submit` - Submit code solution
+- `POST /api/match/result` - Get match results
+- `GET /api/leaderboard` - Get top players
+
+### Problems
+- `GET /api/problem/random` - Get a random problem
+- `GET /api/problem/{id}` - Get specific problem details
+
+### AI Review
+- `POST /api/ai-review` - Get AI code review (mock)
+- `GET /api/ai-review/{match_id}` - Get match AI reviews
+
+### WebSocket
+- `WS /ws/match/{room_id}` - Real-time match communication
+
+## Database Schema
+
+### Users
+- id, username, email, hashed_password
+- win_count, loss_count, rating
+- created_at
+
+### Problems
+- id, title, description
+- input_format, output_format, test_cases
+- difficulty, created_at
+
+### Matches
+- id, player1_id, player2_id, problem_id
+- winner_id, start_time, end_time
+- code_player1, code_player2
+- ai_score_p1, ai_score_p2, status
+
+### Submissions
+- id, user_id, match_id
+- code, language, result, timestamp
+
+## Features in Detail
+
+### Real-time Matchmaking
+- Simple queue-based system
+- Automatic pairing when 2 players join
+- WebSocket notifications for match updates
+
+### Code Execution
+- Mock Judge0 integration (replace with real API)
+- Support for multiple languages
+- Test case validation
+
+### Rating System
+- ELO-style rating updates
+- Win/loss tracking
+- Leaderboard rankings
+
+### AI Code Review
+- Mock implementation with random scores
+- Structured feedback format
+- Ready for Together.ai integration
+
+## Environment Variables
+
+Create a `.env` file in the backend directory:
+
+\`\`\`env
+SECRET_KEY=your-secret-key-here
+DATABASE_URL=sqlite:///./beatcode.db
+JUDGE0_URL=https://judge0-ce.p.rapidapi.com
+JUDGE0_API_KEY=your-judge0-api-key
+TOGETHER_API_KEY=your-together-api-key
+\`\`\`
+
+## Deployment
+
+### Backend (Vercel/Railway/Heroku)
+1. Update database to PostgreSQL for production
+2. Set environment variables
+3. Deploy FastAPI application
+
+### Frontend (Vercel/Netlify)
+1. Update API URLs for production
+2. Deploy Next.js application
+
+## Future Enhancements
+
+- [ ] Real Judge0 API integration
+- [ ] Together.ai code review integration
+- [ ] Tournament system
+- [ ] Practice mode
+- [ ] Code sharing and discussions
+- [ ] Mobile app
+- [ ] Advanced analytics
+- [ ] Team competitions
+
+## Contributing
+
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes
+4. Add tests if applicable
+5. Submit a pull request
+
+## License
+
+MIT License - see LICENSE file for details
